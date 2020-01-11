@@ -1,0 +1,2 @@
+mytext.txt1
+mytext.txt2
