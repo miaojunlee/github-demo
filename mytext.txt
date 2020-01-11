@@ -1,2 +1,4 @@
 mytext.txt1
 mytext.txt2
+line3
+line 4
